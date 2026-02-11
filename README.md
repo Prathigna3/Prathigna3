@@ -3,12 +3,12 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Prathigna;💻+Python ;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Prathigna;💻+Python Full Stack ;🚀+Django;🌟+Open+to+Work!;🎯+Unemployment" />
 </h1>
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/prathigna-n-69bb2936b?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
