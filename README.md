@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/prathigna-n-69bb2936b?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/v2/D5635AQFGabqHxmgkDA/profile-framedphoto-shrink_400_400/B56ZetRAxZHEAk-/0/1750958607796?e=1771405200&v=beta&t=kv9y82OSAsUKsWCV5Vnt_T5exsk7baHIn89tuXwHzdw)" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
